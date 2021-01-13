@@ -16,6 +16,28 @@ body {
      padding: 20px;
 }
 
+h1 {
+     text-align: center;
+     padding: 20px;
+}
+
+img {
+     max-width: 100%;
+     max-height: 400px;
+}
+
+p {
+     font-wariant: small-caps;
+}
+
+.project p {
+     font-variant: small-caps;
+}
+
+#project1 {
+     font-variant: small-caps;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -23,7 +45,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background: url("https://post.greatist.com/wp-content/uploads/sites/3/2020/02/322868_1100-1100x628.jpg");
      opacity: 0.2;
      top: 0;
      left: 0;
